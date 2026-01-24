@@ -11,7 +11,7 @@
   "dependencies": {
     "@auth/mongodb-adapter": "^2.0.3",
     "@aws-sdk/client-s3": "^3.438.0",
-    "bcrypt": "^5.1.1",
+    "bcrypt": "^6.0.0",
     "micro": "^10.0.1",
     "mongodb": "^6.2.0",
     "mongoose": "^7.6.3",
